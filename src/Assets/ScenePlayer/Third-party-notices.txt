@@ -1,0 +1,9 @@
+The scene player includes the unmodified WebWallGL 3.0.2 distribution bundle.
+Source: https://github.com/oneincase/webwallgl/tree/5ba020c6f2222d46093d40792b11aabb048765d1
+Distribution: https://registry.npmjs.org/webwallgl/-/webwallgl-3.0.2.tgz
+License: see WebWallGL-LICENSE.txt and WE-Scene-LICENSE.txt.
+
+The WebWallGL bundle includes Mediabunny 1.56.0. The corresponding source
+code is in the src directory of the following archive:
+https://registry.npmjs.org/mediabunny/-/mediabunny-1.56.0.tgz
+License: Mozilla Public License 2.0. See Mediabunny-LICENSE.txt.

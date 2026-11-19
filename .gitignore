@@ -1,0 +1,14 @@
+**/bin/
+**/obj/
+**/Data/
+/.dependencies/
+/dist/
+/src/native/*.dll
+/src/native/*.exp
+/src/native/*.lib
+/src/native/*.obj
+/src/native/shaders/*.h
+/src/Assets/ScenePlayer/webwallgl.global.min.js
+/src/Assets/TaskbarGuard/runtime/AutoHotkey64.exe
+*.pdb
+*.user
